@@ -1,0 +1,62 @@
+text-align: justify; 
+causes all lines of text except the last line to meet 
+the left and right edges of the line box.
+
+text-align: center; centers the text
+
+text-align: right; right-aligns the text
+
+And text-align: left; (the default) left-aligns the text.
+
+
+width: 220px;
+height: 20px;
+
+To make text bold, you can use the strong tag
+
+To underline text, you can use the u tag
+
+To emphasize text, you can use the em tag
+
+To strikethrough text, which is when a horizontal line cuts across the characters, you can use the s tag.
+
+You can use the hr tag to add a horizontal line across the width of its containing element.
+
+Instead of adjusting your overall background or the color of the text to make the foreground easily readable, you can add a
+background-color: rgba(45, 45, 45, 0.1)
+
+
+#thumbnail{
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _
